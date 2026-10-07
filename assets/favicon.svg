@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="340" viewBox="0 0 640 340" role="img" aria-label="NLS compacto">
+<defs><linearGradient id="navy" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#174780"/><stop offset="1" stop-color="#061530"/></linearGradient><linearGradient id="red" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ff303c"/><stop offset="1" stop-color="#a70016"/></linearGradient></defs>
+<g stroke="#071632" stroke-width="18" stroke-linejoin="round">
+<path d="M38 280V57h62l104 132V57h62v223h-63L100 147v133Z" fill="url(#navy)"/>
+<path d="M249 57h65v168h101v55H249Z" fill="url(#red)"/>
+<path d="M577 98c-32-28-64-42-106-42-61 0-96 31-96 76 0 39 27 61 77 75l40 11c24 7 34 14 34 25 0 15-16 23-42 23-36 0-69-14-103-40l-31 47c39 32 84 49 133 49 68 0 110-33 110-83 0-41-27-64-79-79l-40-11c-20-6-31-13-31-23 0-12 13-18 34-18 29 0 54 10 80 32Z" fill="url(#red)"/>
+</g>
+<g fill="none" stroke="#fff" stroke-width="5" stroke-linejoin="round"><path d="M38 280V57h62l104 132V57h62v223h-63L100 147v133Z"/><path d="M249 57h65v168h101v55H249Z"/><path d="M577 98c-32-28-64-42-106-42-61 0-96 31-96 76 0 39 27 61 77 75l40 11c24 7 34 14 34 25 0 15-16 23-42 23-36 0-69-14-103-40l-31 47c39 32 84 49 133 49 68 0 110-33 110-83 0-41-27-64-79-79l-40-11c-20-6-31-13-31-23 0-12 13-18 34-18 29 0 54 10 80 32Z"/></g>
+</svg>
