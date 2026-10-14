@@ -210,10 +210,10 @@ def header(active, path, sms_href, page_type):
   <a href="/service-areas/">Service Areas</a>
   <a href="/about/">About</a>
   <a href="/contact/">Contact</a>
-  <small>%(nap)s · %(hours)s · %(phone)s</small>
+  <div class="d-nap"><span>%(nap)s</span><span>%(hours)s</span><a href="%(tel)s" data-ev="click_call">%(phone)s</a></div>
 </div>
 ''' % {'pt':page_type, 'sprite':SPRITE, 'svc':svc_links, 'svccur':' cur' if active == 'services' else '', 'sms':sms_href, 'dsvc':d_svc, 'phone':PHONE,
-       'nap':NAP_CITY, 'hours':B['hours'],
+       'nap':NAP_CITY, 'hours':B['hours'], 'tel':TEL,
        'n1':nav('/projects/','Projects','projects'), 'n2':nav('/service-areas/','Service Areas','areas'), 'n3':nav('/about/','About','about'), 'n4':nav('/contact/','Contact','contact')}
 
 def crumbs(trail):

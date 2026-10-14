@@ -377,7 +377,12 @@ form.quote.sent .fields{display:none}
 .drawer{overflow-y:auto;overflow-x:hidden}
 .drawer .d-svc{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:2px 14px;padding:2px 0 12px;border-bottom:1px solid rgba(255,255,255,.1)}
 .drawer .d-svc a{font-family:var(--body);font-style:normal;text-transform:none;font-weight:600;font-size:1rem;color:#C9D3E2;border:0;padding:5px 0}
-.drawer .d-lbl{font-family:var(--display);font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:#F2A3A8;font-size:.8rem;margin-top:6px}
+/* menu do celular: itens não encolhem (sem sobreposição) e o rodapé do menu fica acima da barra fixa Text/Call */
+.drawer{padding-bottom:calc(104px + env(safe-area-inset-bottom,0px))}
+.drawer > *{flex-shrink:0}
+.drawer .d-svc{padding-top:4px}
+.drawer .d-nap{margin-top:auto;padding-top:22px;display:flex;flex-direction:column;gap:4px;color:#9FB0CA;font-size:.95rem;line-height:1.4}
+.drawer .d-nap a{font-family:var(--body);font-style:normal;text-transform:none;font-weight:700;font-size:1.05rem;color:var(--white);border:0;padding:2px 0}
 
 /* breadcrumbs */
 .crumbs{background:var(--paper);border-bottom:1px solid var(--line);font-size:.85rem;font-weight:600;color:var(--muted)}
@@ -676,3 +681,4 @@ img{height:auto}
   .kw .brush path{transition:none}
   .swap,.btn,.svc .arrow{transition:none}
 }
+.menu-open .notes-btn,.menu-open .to-top{display:none}
