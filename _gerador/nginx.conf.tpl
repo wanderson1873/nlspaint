@@ -1,0 +1,36 @@
+# nlspaint.com — nginx do site completo (EasyPanel / Docker)
+server {
+    listen 80;
+    server_name _;
+    root /usr/share/nginx/html;
+    index index.html;
+    absolute_redirect off;
+{{robots}}
+    gzip on;
+    gzip_types text/css application/javascript image/svg+xml application/xml text/plain;
+
+    # www → domínio canônico (o EasyPanel termina o HTTPS antes de chegar aqui)
+    if ($host = www.nlspaint.com) { return 301 https://nlspaint.com$request_uri; }
+
+    # gerador e documentação não são públicos
+    location ^~ /_gerador/ { return 404; }
+    location ~ \.(md|py)$ { return 404; }
+
+    # URL de página sem barra final → com barra (uma URL só por página)
+    location ~ ^([^.?]*[^/])$ {
+        if (-d $document_root$1) { return 301 $1/; }
+        try_files $uri =404;
+    }
+
+    location ~* \.(webp|jpg|png|svg|woff2)$ { expires 30d; add_header Cache-Control "public";
+{{robots}}    }
+    location /assets/ { expires 7d; add_header Cache-Control "public";
+{{robots}}    }
+
+    location / {
+        try_files $uri $uri/ =404;
+        add_header Cache-Control "no-cache";
+    {{robots}}    }
+
+    error_page 404 /404.html;
+}

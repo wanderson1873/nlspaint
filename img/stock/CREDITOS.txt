@@ -1,0 +1,47 @@
+Créditos das fotos de banco adicionadas para o protótipo das páginas internas (2026-10-11).
+Só para o protótipo: no site final, trocar pelas fotos reais dos trabalhos.
+
+stock/bedroom-interior-painting-woonsocket-ri.webp
+  File:Bedroom, Interior of apartment in Brisbane, 2025, 02.jpg — CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Bedroom,_Interior_of_apartment_in_Brisbane,_2025,_02.jpg
+stock/bedroom-wallpaper-removal-cumberland-ri.webp
+  File:Bedroom, Interior of apartment in Brisbane, 2025, 01.jpg — CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Bedroom,_Interior_of_apartment_in_Brisbane,_2025,_01.jpg
+stock/interior-painting-prep-masking-lincoln-ri.webp
+  File:Drywall Repair Portland-Cascade Painting and Restoration - panoramio.jpg — CC BY 3.0
+  https://commons.wikimedia.org/wiki/File:Drywall_Repair_Portland-Cascade_Painting_and_Restoration_-_panoramio.jpg
+stock/cabinet-trim-masking-prep-bellingham-ma.webp
+  File:Portland Drywall Repair-Cascade Painting and Restoration - panoramio.jpg — CC BY 3.0
+  https://commons.wikimedia.org/wiki/File:Portland_Drywall_Repair-Cascade_Painting_and_Restoration_-_panoramio.jpg
+stock/drywall-patching-spackle-north-smithfield-ri.webp
+  File:US Navy 060306-N-5345W-085 Aviation Structural Mechanic 3rd Class Joshua Corl, left, and Machinist's Mate 2nd Class David Gayton spackle the walls in a Gulfport home, while preparing the interior for repainting.jpg — Public domain
+  https://commons.wikimedia.org/wiki/File:US_Navy_060306-N-5345W-085_Aviation_Structural_Mechanic_3rd_Class_Joshua_Corl,_left,_and_Machinist%27s_Mate_2nd_Class_David_Gayton_spackle_the_walls_in_a_Gulfport_home,_while_preparing_the_interior_for_repainting.jpg
+stock/drywall-putty-knife-repair-smithfield-ri.webp
+  File:Structures- Repairing for a Better Tomorrow (8151571).jpg — Public domain
+  https://commons.wikimedia.org/wiki/File:Structures-_Repairing_for_a_Better_Tomorrow_(8151571).jpg
+stock/drywall-sanding-before-painting-north-smithfield-ri.webp
+  File:Drywall repair at hatchery quarters (49525529776).jpg — Public domain
+  https://commons.wikimedia.org/wiki/File:Drywall_repair_at_hatchery_quarters_(49525529776).jpg
+stock/green-colonial-exterior-painting-cumberland-ri.webp
+  File:Putnam House, Danvers, Massachusetts - front view.JPG — CC BY-SA 3.0
+  https://commons.wikimedia.org/wiki/File:Putnam_House,_Danvers,_Massachusetts_-_front_view.JPG
+stock/new-england-saltbox-exterior-blackstone-ma.webp
+  File:Orchard Smith Homestead, a colonial farm house on Route 117 in Maynard, Massachusetts, USA.jpg — CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Orchard_Smith_Homestead,_a_colonial_farm_house_on_Route_117_in_Maynard,_Massachusetts,_USA.jpg
+stock/paint-roller-exterior-wall-woonsocket-ri.webp
+  File:Paint roller 4.jpg — CC BY 2.0
+  https://commons.wikimedia.org/wiki/File:Paint_roller_4.jpg
+stock/painter-on-ladder-exterior-wall-lincoln-ri.webp
+  File:Modern-Trade-Painter.jpg — CC BY-SA 2.5
+  https://commons.wikimedia.org/wiki/File:Modern-Trade-Painter.jpg
+stock/concrete-floor-prep-epoxy-bellingham-ma.webp
+  File:Blue Grass Chemical Agent-Destruction Pilot Plant Munitions Demilitarization Building Epoxy Floor Coating (4362577157).jpg — CC BY 2.0
+  https://commons.wikimedia.org/wiki/File:Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Munitions_Demilitarization_Building_Epoxy_Floor_Coating_(4362577157).jpg
+stock/kitchen-walls-cabinets-painting-bellingham-ma.webp
+  rawpixel — cc0
+  https://www.rawpixel.com/image/5919940/photo-image-light-public-domain-shadow
+stock/open-kitchen-interior-painting-bellingham-ma.webp
+  rawpixel — cc0
+  https://www.rawpixel.com/image/3284813/free-photo-image-kitchen-interior-blue
+
+Fotos reais do Maicow (nlspaint/WhatsApp e instagram/) convertidas para WebP sem EXIF/GPS: img/metal-building-*, img/porch-*, img/siding-*, img/exterior-siding-spray-detail-*, img/power-washing-siding-detail-*, img/garage-shop-*.
